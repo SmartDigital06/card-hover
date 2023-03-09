@@ -1,1 +1,1 @@
-# card-hover
+# Card Hover design
